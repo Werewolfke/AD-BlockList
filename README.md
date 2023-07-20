@@ -1,4 +1,4 @@
-# A Simple List of Domains Blocked by AdGuard Home
+# A Simple List of Domains Blocked by my AdGuard Home
 
 </p>
 <br/>
