@@ -18,11 +18,14 @@ I also use many lists that AdGuard themselves offer, which are more up to date t
 To use this list, you will need to import it into your AdGuard Home installation. You can do this by following these steps:
 
 1. Open the AdGuard Home web interface.
-2. Click on the "Lists" tab.
-3. Click on the "Import" button.
-4. Select the "List of Domains Blocked by AdGuard Home" file.
-5. Click on the "Import" button.
-
+2. Click on the "filter" tab.
+3. Click on the "DNS Blocklist" option.
+4. Select the "Add blocklist" file.
+5. Click "Add custom list".
+6. Paste the link that u are not when viewing the list as raw.
+```sh
+https://raw.githubusercontent.com/Werewolfke/AD-BlockList/main/BlockList%20v1.0.1.txt
+```
 The list will now be imported into your AdGuard Home installation and will start blocking the domains that are listed.
 
 <h3><span style="color:red;">&#x1f495;</span> Notes</h3>
