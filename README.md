@@ -22,7 +22,7 @@ To use this list, you will need to import it into your AdGuard Home installation
 3. Click on the "DNS Blocklist" option.
 4. Select the "Add blocklist" file.
 5. Click "Add custom list".
-6. Paste the link that u are not when viewing the list as raw.
+6. Paste the link that u are on when viewing the list as raw.
 ```sh
 https://raw.githubusercontent.com/Werewolfke/AD-BlockList/main/BlockList%20v1.0.1.txt
 ```
