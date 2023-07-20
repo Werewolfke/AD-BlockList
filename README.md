@@ -1,7 +1,35 @@
-A Simplelist full of domains that are blocked by my Adguard Home installation.
-Any notes about it is surely welcome.
-Its simply a combination of a huge amount of lsit, but filtered the bad stuff out, and the thing out of it that prevent serten things from working on my netwerk.
-Improvements will beadded or removed from time to time.
+# A Simple List of Domains Blocked by AdGuard Home
 
-I also use many Lists that Adguard theirselves offer, that are more up to date then my list, i suggest for eanyone using my list to do the same.
-Atleast use one or two lists from more up-date-friendly sources to get the best expeience because domains change faster then i will ever be able to handle.
+</p>
+<br/>
+<p align="center">
+<img src="https://github.com/Werewolfke/AD-BlockList/assets/104201837/aef539ad-c25d-48d2-af6a-19da130760b2" width="250px" height="250px">
+</p>
+<hr/>
+
+This is a simple list of domains that are blocked by my AdGuard Home installation. Any notes about it are surely welcome.
+
+It is simply a combination of a huge amount of lists, but I filtered out the bad stuff and the things that prevent certain things from working on my network. Improvements will be added or removed from time to time.
+
+I also use many lists that AdGuard themselves offer, which are more up to date than my list. I suggest that anyone using my list does the same. At least use one or two lists from more up-to-date sources to get the best experience, because domains change faster than I will ever be able to handle.
+
+## How to Use This List
+
+To use this list, you will need to import it into your AdGuard Home installation. You can do this by following these steps:
+
+1. Open the AdGuard Home web interface.
+2. Click on the "Lists" tab.
+3. Click on the "Import" button.
+4. Select the "List of Domains Blocked by AdGuard Home" file.
+5. Click on the "Import" button.
+
+The list will now be imported into your AdGuard Home installation and will start blocking the domains that are listed.
+
+<h3><span style="color:red;">&#x1f495;</span> Notes</h3>
+
+
+* This list is not perfect and may block some domains that you do not want to block.
+* You should always test any new list before you add it to your AdGuard Home installation.
+* If you have any problems with this list, please feel free to open an issue on the GitHub repository.
+
+## Thank you for using this list!
