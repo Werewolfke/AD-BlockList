@@ -35,5 +35,6 @@ The list will now be imported into your AdGuard Home installation and will start
 * You should always test any new list before you add it to your AdGuard Home installation.
 * If you have any problems with this list, please feel free to open an issue on the GitHub repository.
 * Any domains u think are blocked without valid reason, also open a issue with the domain in question.
+* V2 IS STILL UNDERGOING TESTING!!!
 
 ## Thank you for using this list!
