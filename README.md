@@ -32,9 +32,9 @@ The list will now be imported into your AdGuard Home installation and will start
 
 
 * This list is not perfect and may block some domains that you do not want to block.
-* You should always test any new list before you add it to your AdGuard Home installation.
+* This is not a NSFW filter, or does it try it to be.
 * If you have any problems with this list, please feel free to open an issue on the GitHub repository.
-* Any domains u think are blocked without valid reason, also open a issue with the domain in question.
-* V2 IS STILL UNDERGOING TESTING!!!
+* Any domains u think are blocked without valid reason, open a issue with the domain(s) in question.
+* V2 IS STILL UNDERGOING TESTING!!! (do not use on important networks it blocks more then it should for now.)
 
-## Thank you for using this list!
+## Thank you for using these list!
