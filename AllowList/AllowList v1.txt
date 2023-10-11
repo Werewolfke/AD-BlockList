@@ -1,0 +1,5 @@
+@@||combine.urbanairship.com^
+@@||urbanairship.com^
+@@||s.youtube.com
+@@||linkvertise.com^$important
+@@||ephemeralcounters.api.roblox.com^$important
