@@ -1,0 +1,68 @@
+AdGuard DNS filter
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt
+
+AdAway Default Blocklist
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_2.txt
+
+Dan Pollock's List
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_4.txt
+
+The NoTracking blocklist
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_32.txt
+
+OISD Blocklist Big
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_27.txt
+
+OISD Blocklist Small
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_5.txt
+
+Steven Black's List
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_33.txt
+
+WindowsSpyBlocker - Hosts spy rules
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_23.txt
+
+Phishing Army
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_18.txt
+
+Phishing URL Blocklist (PhishTank and OpenPhish)
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_30.txt
+
+NoCoin Filter List
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_8.txt
+
+Malicious URL Blocklist (URLHaus)
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_11.txt
+
+Dandelion Sprout's Anti Push Notifications
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_39.txt
+
+Dandelion Sprout's Anti-Malware List
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_12.txt
+
+The Big List of Hacked Malware Web Sites
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_9.txt
+
+Stalkerware Indicators List
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_31.txt
+
+Scam Blocklist by DurableNapkin
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt
+
+ShadowWhisperer's Malware List
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_42.txt
+
+HaGeZi's Threat Intelligence Feeds
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_44.txt
+
+v1.1 Personal
+https://raw.githubusercontent.com/Werewolfke/AD-BlockList/main/BlockList%20v1.0.1.txt
+
+v2.1 Personal
+https://raw.githubusercontent.com/Werewolfke/AD-BlockList/main/BlockList%20v2.0.0/BlockList%20v2.0.1.txt
+
+v2.2 Personal
+https://raw.githubusercontent.com/Werewolfke/AD-BlockList/main/BlockList%20v2.0.0/BlockList%20v2.0.2.txt
+
+v2.3 Personal
+https://raw.githubusercontent.com/Werewolfke/AD-BlockList/main/BlockList%20v2.0.0/BlockList%20v2.0.3.txt
