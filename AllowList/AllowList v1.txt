@@ -1,5 +1,8 @@
 @@||combine.urbanairship.com^
 @@||urbanairship.com^
-@@||s.youtube.com
-@@||linkvertise.com^$important
-@@||ephemeralcounters.api.roblox.com^$important
+@@||s.youtube.com^
+@@||linkvertise.com^
+@@||ephemeralcounters.api.roblox.com^
+@@||dev.visualwebsiteoptimizer.com^
+@@||kbcgroupnv.sc.omtrdc.net^
+@@||a.magsrv.com^
