@@ -34,7 +34,7 @@ https://raw.githubusercontent.com/Werewolfke/AD-BlockList/main/BlockList/BlockLi
 
 V2 (used testing)
 ```sh
-https://raw.githubusercontent.com/Werewolfke/AD-BlockList/main/BlockList/BlockList_V2.txt
+https://raw.githubusercontent.com/Werewolfke/AD-BlockList/main/BlockList/Beta/BlockList_V2.txt
 ```
 
 The list will now be imported into your AdGuard Home installation and will start blocking the domains that are listed.
