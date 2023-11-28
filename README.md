@@ -10,7 +10,7 @@
 ### ❗❗❗Note; this List will get changed starting 2024. Lists like v1.0.1 and those in the v2.0.0 folder are going to move.
 ### ❗❗❗Starting 28/11 these mentioned will not get updated anymore. The new location is in the general 'BlockList' Folder and will get updated. 
 
-## 
+#  
 This is a simple list of domains that are blocked by my AdGuard Home installation. Any notes about it are surely welcome.
 
 It is simply a combination of a huge amount of lists, but I filtered out the bad stuff and the things that prevent certain things from working on my network. Improvements will be added or removed from time to time.
