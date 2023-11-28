@@ -39,7 +39,8 @@ https://raw.githubusercontent.com/Werewolfke/AD-BlockList/main/BlockList/Beta/Bl
 ```
 
 The list will now be imported into your AdGuard Home installation and will start blocking the domains that are listed.
-
+##  
+##  
 <h3><span style="color:red;">&#x1f495;</span> Notes</h3>
 
 
