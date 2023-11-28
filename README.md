@@ -26,9 +26,17 @@ To use this list, you will need to import it into your AdGuard Home installation
 4. Select the "Add blocklist" file.
 5. Click "Add custom list".
 6. Paste the link that u are on when viewing the list as raw.
+
+V1 (used generally)
 ```sh
 https://raw.githubusercontent.com/Werewolfke/AD-BlockList/main/BlockList/BlockList_V1.txt
 ```
+
+V2 (used testing)
+```sh
+https://raw.githubusercontent.com/Werewolfke/AD-BlockList/main/BlockList/BlockList_V2.txt
+```
+
 The list will now be imported into your AdGuard Home installation and will start blocking the domains that are listed.
 
 <h3><span style="color:red;">&#x1f495;</span> Notes</h3>
