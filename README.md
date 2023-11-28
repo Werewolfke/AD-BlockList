@@ -7,6 +7,12 @@
 </p>
 <hr/>
 
+### ❗❗❗Note; this List will get changed starting 2024. Lists like v1.0.1 and those in the v2.0.0 folder are going to move.
+### ❗❗❗Starting 28/11 these mentioned will not get updated anymore. The new location is in the general 'BlockList' Folder and will get updated. 
+
+#     
+##    
+
 This is a simple list of domains that are blocked by my AdGuard Home installation. Any notes about it are surely welcome.
 
 It is simply a combination of a huge amount of lists, but I filtered out the bad stuff and the things that prevent certain things from working on my network. Improvements will be added or removed from time to time.
@@ -23,11 +29,20 @@ To use this list, you will need to import it into your AdGuard Home installation
 4. Select the "Add blocklist" file.
 5. Click "Add custom list".
 6. Paste the link that u are on when viewing the list as raw.
-```sh
-https://raw.githubusercontent.com/Werewolfke/AD-BlockList/main/BlockList%20v1.0.1.txt
-```
-The list will now be imported into your AdGuard Home installation and will start blocking the domains that are listed.
 
+V1 (used generally)
+```sh
+https://raw.githubusercontent.com/Werewolfke/AD-BlockList/main/BlockList/BlockList_V1.txt
+```
+
+V2 (used testing)
+```sh
+https://raw.githubusercontent.com/Werewolfke/AD-BlockList/main/BlockList/Beta/BlockList_V2.txt
+```
+
+The list will now be imported into your AdGuard Home installation and will start blocking the domains that are listed.
+##  
+##  
 <h3><span style="color:red;">&#x1f495;</span> Notes</h3>
 
 
