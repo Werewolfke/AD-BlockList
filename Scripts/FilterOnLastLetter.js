@@ -1,0 +1,6 @@
+editor.selectAll()
+text = editor.getText()
+lines = text.split('\n')
+sorted_lines = sorted(lines, key=lambda x: x[::-1])
+editor.clearAll()
+editor.addText('\n'.join(sorted_lines))
