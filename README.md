@@ -7,8 +7,6 @@
 </p>
 <hr/>
 
-### ❗❗❗Note; this List will get changed starting 2024. Lists like v1.0.1 and those in the v2.0.0 folder are going to move.
-### ❗❗❗Starting 28/11 these mentioned will not get updated anymore. The new location is in the general 'BlockList' Folder and will get updated. 
 
 #     
 ##    
