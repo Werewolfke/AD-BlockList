@@ -5,7 +5,7 @@
 @@||ephemeralcounters.api.roblox.com^
 @@||dev.visualwebsiteoptimizer.com^
 @@||kbcgroupnv.sc.omtrdc.net^
-@@||a.magsrv.com^
-@@||gayboystube.top^
-@@||app.adjust.com^
-@@||leanplum.com^
+@@||3cx.be
+@@||js-agent.newrelic.com
+@@||get.webcatalog.io^
+@@||media-consumer365.desigual.com
