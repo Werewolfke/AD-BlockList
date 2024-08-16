@@ -36,8 +36,7 @@
 @@||belgacom.be
 @@||bpost.be
 @@||delcam.be
-@@||facebook.com
-@@||googleapis.com
+@@||facebook.com
 @@||hotmail.be
 @@||msn.be
 @@||omroep.be
