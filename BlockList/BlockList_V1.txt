@@ -16362,9 +16362,6 @@
 ||recs.engageya.com^
 ||widget.engageya.com^
 ||engageya.com^
-||gscounters.*.gigya.com^
-||gscounters.us1.gigya.com^
-||gscounters.gigya.com^
 ||nohowsankhya.com^
 ||asrarrarabiya.com^
 ||statistics.wibiya.com^
@@ -21474,7 +21471,6 @@
 ||creativworkservice.com^
 ||tracking.utlservice.com^
 ||kochsfarmservice.com^
-||vkcdnservice.com^
 ||actonservice.com^
 ||propgoservice.com^
 ||oxfordlimoservice.com^
@@ -33605,10 +33601,6 @@
 ||featurelink.com^
 ||yourdatelink.com^
 ||app.aflink.com^
-||api.viglink.com^
-||cdn.viglink.com^
-||images.viglink.com^
-||viglink.com^
 ||crtracklink.com^
 ||majoriklink.com^
 ||slinklink.com^
@@ -46801,11 +46793,6 @@
 ||bewarevampiresister.com^
 ||cessationhamster.com^
 ||summerhamster.com^
-||collector1.xhamster.com^
-||cnt1.xhamster.com^
-||buzzer.xhamster.com^
-||collector.xhamster.com^
-||cnt.xhamster.com^
 ||image.influenster.com^
 ||camonster.com^
 ||a.optinmonster.com^
@@ -58439,7 +58426,6 @@
 ||raovat4u.com^
 ||vn.grab-credit4u.com^
 ||wecount4u.com^
-||eunow4u.com^
 ||m0rsq075u.com^
 ||u26u.com^
 ||jnrtavp2x66u.com^
@@ -79957,9 +79943,6 @@
 ||webwise.net^
 ||fumtartujilse.net^
 ||thaculse.net^
-||c.go-mpulse.net^
-||s.go-mpulse.net^
-||go-mpulse.net^
 ||suite*.linximpulse.net^
 ||tracking-api.mangopulse.net^
 ||cdn.alfasense.net^
@@ -87671,9 +87654,6 @@
 ||edubit.eu^
 ||egernfoerdefrit.eu^
 ||ppcnt.eu^
-||mobile.slgnt.eu^
-||site-azp.slgnt.eu^
-||offer.slgnt.eu^
 ||amint.eu^
 ||ads.enrt.eu^
 ||oktransport.eu^
