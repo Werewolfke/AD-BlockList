@@ -51419,7 +51419,6 @@
 ||nullscateringinforms.com^
 ||geo.wpforms.com^
 ||track.nopaperforms.com^
-||perf.hsforms.com^
 ||tr.apsisforms.com^
 ||frayforms.com^
 ||ad.linkstorms.com^
@@ -79575,7 +79574,6 @@
 ||ads-wordego.azureedge.net^
 ||masdpanalytics.azureedge.net^
 ||e7876.dscg.akamaiedge.net^
-||msedge.net^
 ||logsink.zedge.net^
 ||track.bannerbridge.net^
 ||bannerbridge.net^
