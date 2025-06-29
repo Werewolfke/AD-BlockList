@@ -8,3 +8,11 @@
 @@||js-agent.newrelic.com
 @@||get.webcatalog.io^
 @@||media-consumer365.desigual.com
+@@||vide0.net^$important
+@@||frog.wix.com^$important
+@@||panorama.wixapps.net^$important
+@@||vm.tiktok.com^
+@@||embeddedassistant.googleapis.com^
+@@||cycling.vlaanderen^$important
+@@||use.typekit.net^$important
+@@||www.tiktok.com^
