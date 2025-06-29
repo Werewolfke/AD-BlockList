@@ -10,6 +10,7 @@
 
 #     
 ##    
+## !! Since June 2025 Blocklists are no longer maintained !!
 
 This is a simple list of domains that are blocked by my AdGuard Home installation. Any notes about it are surely welcome.
 
